@@ -1,0 +1,11 @@
+order_id,customer_id,product,amount,date,status
+1,101,Laptop,1200,2026-01-01,completed
+2,102,Mouse,25,2026-01-01,completed
+3,101,Keyboard,75,2026-01-02,cancelled
+4,103,Monitor,350,2026-01-02,completed
+5,102,Laptop,1200,2026-01-03,pending
+6,104,Mouse,25,2026-01-03,completed
+7,101,Monitor,350,2026-01-04,completed
+8,105,Keyboard,75,2026-01-04,cancelled
+9,103,Laptop,1200,2026-01-05,completed
+10,104,Mouse,25,2026-01-05,completed

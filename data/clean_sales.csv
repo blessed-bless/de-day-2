@@ -1,0 +1,8 @@
+order_id,customer_id,product,amount,date,status,tax,total
+1,101,Laptop,1200,2026-01-01,completed,120.0,1320.0
+2,102,Mouse,25,2026-01-01,completed,2.5,27.5
+4,103,Monitor,350,2026-01-02,completed,35.0,385.0
+6,104,Mouse,25,2026-01-03,completed,2.5,27.5
+7,101,Monitor,350,2026-01-04,completed,35.0,385.0
+9,103,Laptop,1200,2026-01-05,completed,120.0,1320.0
+10,104,Mouse,25,2026-01-05,completed,2.5,27.5
